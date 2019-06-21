@@ -1,0 +1,9 @@
+{
+  "name": "test-pod",
+  "version": "1.0.0",
+  "description": "A test cafe configuration with cucumber",
+  "main": "index.js",
+  "repository": "https://github.com/FerJSsilva/test-pod.git",
+  "author": "Fernando Silva <fernando.silva@vistajet.com>",
+  "license": "MIT"
+}
