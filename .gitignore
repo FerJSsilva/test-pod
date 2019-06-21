@@ -59,3 +59,16 @@ typings/
 
 # next.js build output
 .next
+
+# Screenshots
+test.js
+
+# Screenshots
+reports/screenshots
+
+# Added empty reports folder
+reports/*
+!reports/.gitkeep
+
+# VSCode files
+.vscode/*
